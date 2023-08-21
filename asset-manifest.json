@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/searchuniversity/static/css/main.31d6cfe0.css",
+    "main.js": "/searchuniversity/static/js/main.236af7fc.js",
+    "static/js/787.6952c53d.chunk.js": "/searchuniversity/static/js/787.6952c53d.chunk.js",
+    "index.html": "/searchuniversity/index.html",
+    "main.236af7fc.js.map": "/searchuniversity/static/js/main.236af7fc.js.map",
+    "787.6952c53d.chunk.js.map": "/searchuniversity/static/js/787.6952c53d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.236af7fc.js"
+  ]
+}
